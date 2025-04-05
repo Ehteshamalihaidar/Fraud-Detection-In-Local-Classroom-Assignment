@@ -1,0 +1,6 @@
+projectKey=teacher-note-flow
+serverUrl=http://localhost:9000
+serverVersion=25.3.0.104237
+dashboardUrl=http://localhost:9000/dashboard?id=teacher-note-flow
+ceTaskId=4c648686-ffca-4038-8e28-58b0a7338049
+ceTaskUrl=http://localhost:9000/api/ce/task?id=4c648686-ffca-4038-8e28-58b0a7338049
